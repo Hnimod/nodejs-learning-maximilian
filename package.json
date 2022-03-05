@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-maximilian",
+  "version": "1.0.0",
+  "description": "learning node",
+  "main": "app.js",
+  "author": "Minh Do",
+  "license": "ISC",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.10.0",
+    "nodemon": "^2.0.15"
+  }
+}
